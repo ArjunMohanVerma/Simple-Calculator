@@ -1,0 +1,22 @@
+#container{
+    border:5px outset rgb(233, 6, 6);
+    height:400px;
+    width:400px;
+    margin:auto;
+
+}
+.butn{
+    width:97px;
+    height:80px;
+    font-size:25px;
+}
+
+#input{
+    height:60px;
+    width:390px;
+    border-bottom: 10px outset black;
+}
+.butn:hover{
+    background-color:rgb(247, 141, 27);
+    color:antiquewhite;
+}
